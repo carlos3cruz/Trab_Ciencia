@@ -16,4 +16,8 @@ Utilizamos el algoritmo LazyClassifier para realizar la clasificación.
 
 ## Modelo de Aprendizaje Automático
 
+<<<<<<< HEAD
 Aplicamos un modelo de aprendizaje automático para la clasificación, optimizar hiperparámetros.
+=======
+Aplicamos un modelo de aprendizaje automático para la clasificación, optimizar hiperparámetros.
+>>>>>>> 0ea40cab9ddbbdada06e0cbe824d7e8d457660db
